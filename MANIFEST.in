@@ -4,3 +4,4 @@ recursive-include src/twisted *.py
 recursive-include src/cowrie *.py
 graft honeyfs
 graft share/cowrie
+graft share/cow
