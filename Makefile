@@ -16,7 +16,7 @@ help:
 
 .PHONY: test
 test:
-	tox
+	toxx
 
 .PHONY: build
 build:
